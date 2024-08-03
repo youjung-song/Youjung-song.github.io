@@ -11,9 +11,9 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Education
 ======
-* Ph.D in Public Administration, University at Albany - State University of New York, 2025 (expected)
-* M.PA in Public Administration, Korea University, 2020
-* B.A in Korean Literature & Mass Communications, Sogang University, 2016
+* PhD in Public Administration, University at Albany - State University of New York, 2025 (expected)
+* MPA in Public Administration, Korea University, 2020
+* BA in Korean Literature & Mass Communications, Sogang University, 2016
 
 For more info
 ------

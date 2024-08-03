@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Youjung Song"
-  pronouns         : "she/her/hers" # example: "she/her"  
+  pronouns         : "she/her" # example: "she/her"  
   bio              : "Ph.D. Candidate in public/nonprofit management who studies trust in organizations"
   location         : "Albany, NY"
-  employer         : "State University of New York at Albany"
+  employer         : "University at Albany, SUNY"
   uri              : # URL
   email            : "ysong26@albany.edu" 
 

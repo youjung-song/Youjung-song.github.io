@@ -22,3 +22,7 @@ author_profile: true
 {% endfor %}
 
 ## Work in Progress
+
+For more info
+------
+This is a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.

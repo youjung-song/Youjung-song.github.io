@@ -11,6 +11,8 @@ author_profile: true
 
 ## Publications
 
+### Peer-reviewed Articles
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=8xC25vUAAAAJ}}">my Google Scholar profile</a>.</div>
 {% endif %}

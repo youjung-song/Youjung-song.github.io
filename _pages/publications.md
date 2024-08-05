@@ -10,8 +10,10 @@ author_profile: true
 ## Research Overview
 
 ## Publications
+You can also find my articles on <a href="{{https://scholar.google.com/citations?user=8xC25vUAAAAJ}}">my Google Scholar profile</a>
 
 ### Peer-reviewed Articles
+
 
 ## Work in Progress
 

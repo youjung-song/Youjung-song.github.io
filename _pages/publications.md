@@ -4,7 +4,7 @@ title: "Research"
 permalink: /publications/
 author_profile: true
   - /md/
-  - /mpublications.html
+  - /publications.html
 ---
 ## Research
 

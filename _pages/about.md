@@ -21,6 +21,3 @@ Education
 * MPA in Public Administration, Korea University (2020)
 * BA in Korean Literature & Mass Communications, Sogang University (2016)
 
-For more info
-------
-This is a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.

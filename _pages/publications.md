@@ -9,11 +9,8 @@ author_profile: true
 
 ## Research Overview
 
-======
 ## Publications
 
-
-======
 ## Work in Progress
 
 {% if site.author.googlescholar %}

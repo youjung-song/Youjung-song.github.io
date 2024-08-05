@@ -3,6 +3,8 @@ layout: archive
 title: "Research"
 permalink: /publications/
 author_profile: true
+  - /md/
+  - /mpublications.html
 ---
 
 {% if site.author.googlescholar %}

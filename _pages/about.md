@@ -17,7 +17,7 @@ Research Interests
 
 Education
 ======
-* PhD in Public Administration, University at Albany - State University of New York, 2025 (expected)
+* PhD in Public Administration, State University of New York at Albany, 2025 (expected)
 * MPA in Public Administration, Korea University, 2020
 * BA in Korean Literature & Mass Communications, Sogang University, 2016
 
